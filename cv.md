@@ -20,6 +20,7 @@ Education
 * Human Languages:
 
      * English (native speaker)
+	 * Ukrainian (native speaker)
      * Russian (native speaker)
 
 * Random tidbit
