@@ -9,8 +9,8 @@ Ukraine
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2010-2015
+:   **Civil Engineer**; PGASA (Dnepr)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
