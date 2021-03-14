@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Kurale;
+    src: url(/rsschool-cv/src/Kurale.ttf);
+}
+body {
+    font-size: 20px;
+}
+.header {
+    width: 90%;
+    margin: 50px;
+}
+span {
+    font-size: 3rem;
+    font-family: Kurale;
+}
+img {
+    max-height: 200px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.name {
+    font-family: Kurale;
+    font-size: 3rem;
+}
